@@ -27,7 +27,7 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult HelloWorld()
+        public ActionResult GoodByWorld()
         {
             return View();
         }
